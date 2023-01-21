@@ -1,3 +1,3 @@
 # New-project-1
 
-This is a code from Upskill. at upskillcourses.com
+So I for distracted and this became an experiment with bootstrap.
